@@ -13,3 +13,4 @@ My name is Aidan Mitchell and I am currently a student at the University of Cali
 
 ## Independent Courses
 [100 Days of Code: The Complete Python Pro Bootcamp](https://github.com/aidanpmitchell/100-days-of-code-python)
+A comprehensive course designed to take participants from beginner to professional level in Python programming. This course, taught by the lead instructor at the App Brewery in London, features over 65 hours of video tutorials and is structured around building a project each day, culminating in a portfolio of 100 projects.
