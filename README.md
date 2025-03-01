@@ -12,4 +12,4 @@ My name is Aidan Mitchell and I am currently a student at the University of Cali
 # Projects
 
 ## Independent Courses
-[100 Days of Code Repo](https://github.com/aidanpmitchell/100-days-of-code)
+[100 Days of Code: The Complete Python Pro Bootcamp](https://github.com/aidanpmitchell/100-days-of-code-python)
