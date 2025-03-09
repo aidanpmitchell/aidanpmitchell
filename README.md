@@ -14,6 +14,7 @@ My name is Aidan Mitchell and I am currently a student at the University of Cali
 
 # 🧩 Projects
 [Linear Regression Analysis: US Health Insurance Cost Prediction in R](https://github.com/aidanpmitchell/Insurance_Linear_Regression/)
+Built a linear regression model to predict insurance charges based on demographic and health factors, achieving an R² of 0.86. Performed data cleaning, exploratory data analysis (EDA), and feature engineering in R. Evaluated model assumptions and significance using residual diagnostics and statistical tests.
 
 ## 🔧 Independent Courses
 [100 Days of Code: The Complete Python Pro Bootcamp](https://github.com/aidanpmitchell/100-days-of-code-python) \
