@@ -1,7 +1,7 @@
 # Hi There 👋, I'm Aidan Mitchell
 
 ## Introduction
-My name is Aidan Mitchell and I am currently a student at the University of California, Santa Barbara persuing a double major in Statistics & Data Science and Economics. I am eager to explore the intersection of these two fields and apply my technical and analytical skills to real-world problems. I have a love for data-driven decision making and am constantly looking for opportunities to learn from industry professionals and collaborate with peers to develop innovative solutions. I'm passionate about using data to make a positive impact and drive meaningful change!
+My name is Aidan Mitchell and I am currently a third-year student at the University of California, Santa Barbara persuing a double major in Statistics & Data Science and Economics. I am eager to explore the intersection of these two fields and apply my technical and analytical skills to real-world problems. I have a love for data-driven decision making and am constantly looking for opportunities to learn from industry professionals and collaborate with peers to develop innovative solutions. I'm passionate about using data to make a positive impact and drive meaningful change!
 
 📁 **Check out my** [Resume](https://github.com/aidanpmitchell/Aidan-Mitchell-Documents/blob/main/Aidan%20Mitchell%20Resume.pdf)
 ---
