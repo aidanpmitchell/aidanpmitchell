@@ -20,3 +20,8 @@ Built a linear regression model to predict insurance charges based on demographi
 ### 100 Days of Code: The Complete Python Pro Bootcamp
 Designed to take participants from beginner to professional level in Python programming. This course, taught by the lead instructor at the App Brewery in London, features over 65 hours of video tutorials and is structured around building a project each day, culminating in a portfolio of 100 projects. \
 [My Progress / Projects](https://github.com/aidanpmitchell/100-days-of-code-python)
+
+### The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert
+Designed to elevate learners from novice to expert in MySQL database management, this course is expertly crafted by Colt Steele, a seasoned instructor. It features over 22 hours of video tutorials and notes. The structure of the course is highly interactive, focusing on real-world applications and comprehensive projects that culminate in a robust portfolio of database skills and knowledge​. \
+[Instagram Clone Database]()
+[Mailing List Web Application with NodeJS and MySQL]()
