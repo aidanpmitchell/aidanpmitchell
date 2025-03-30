@@ -17,5 +17,6 @@ My name is Aidan Mitchell and I am currently a student at the University of Cali
 Built a linear regression model to predict insurance charges based on demographic and health factors, achieving an R² of 0.86. Performed data cleaning, exploratory data analysis (EDA), and feature engineering in R. Evaluated model assumptions and significance using residual diagnostics and statistical tests.
 
 ## 🔧 Independent Courses
-[100 Days of Code: The Complete Python Pro Bootcamp](https://github.com/aidanpmitchell/100-days-of-code-python) \
+### 100 Days of Code: The Complete Python Pro Bootcamp
+[My Progress / Projects](https://github.com/aidanpmitchell/100-days-of-code-python) \
 Designed to take participants from beginner to professional level in Python programming. This course, taught by the lead instructor at the App Brewery in London, features over 65 hours of video tutorials and is structured around building a project each day, culminating in a portfolio of 100 projects.
