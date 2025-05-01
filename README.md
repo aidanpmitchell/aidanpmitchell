@@ -15,6 +15,10 @@ My name is Aidan Mitchell and I am currently a third-year student at the Univers
 # 🧩 Projects
 [Linear Regression Analysis: US Health Insurance Cost Prediction in R](https://github.com/aidanpmitchell/Insurance_Linear_Regression/) \
 Built a linear regression model to predict insurance charges based on demographic and health factors, achieving an R² of 0.86. Performed data cleaning, exploratory data analysis (EDA), and feature engineering in R. Evaluated model assumptions and significance using residual diagnostics and statistical tests.
+\
+
+[Soda Taste Test 3x2 Factorial Design with Blocking](https://github.com/aidanpmitchell/Soda_Factorial/) \
+Designed and executed a 3×2 factorial experiment to evaluate the impact of pouring and consumption methods on soda enjoyment. Collected data from 6 participants and modeled results using a blocked linear model in R. Performed hypothesis testing, interaction analysis, and post-hoc power simulation, achieving 93% statistical power and validating key assumptions with diagnostic plots.
 
 # 🔧 Independent Courses
 ### 100 Days of Code: The Complete Python Pro Bootcamp
