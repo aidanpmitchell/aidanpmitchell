@@ -13,6 +13,11 @@ My name is Aidan Mitchell and I am currently a third-year student at the Univers
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 # 🧩 Projects
+[Stochastic Portfolio Optimization: Regime-Switching Asset Allocation in Python](https://github.com/aidanpmitchell/stochastic-regime-portfolio-optimization) \
+Developing a regime-switching portfolio optimization model that integrates stochastic processes with mean-variance optimization. Modeling market regimes using Markov chains and estimating regime-specific return distributions and covariance structures.
+
+Implementing portfolio allocation using quadratic optimization and evaluating performance through backtesting against static and equal-weight strategies. The project includes a full research-style writeup with mathematical derivations, portfolio theory explanations, and empirical analysis using Python, NumPy, Pandas, CVXPY, and Quarto.
+
 [Linear Regression Analysis: US Health Insurance Cost Prediction in R](https://github.com/aidanpmitchell/Insurance_Linear_Regression/) \
 Built a linear regression model to predict insurance charges based on demographic and health factors, achieving an R² of 0.86. Performed data cleaning, exploratory data analysis (EDA), and feature engineering in R. Evaluated model assumptions and significance using residual diagnostics and statistical tests.
 
