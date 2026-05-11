@@ -13,6 +13,13 @@ My name is Aidan Mitchell and I am currently a fourth-year student at the Univer
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 # 🧩 Projects
+[Continuous Quantum Error Correction with ML Decoders](https://github.com/pkarakala/cqec-ml-decoder)
+Developed Bayesian filtering and GRU-based sequence models for continuous quantum error correction under increasingly realistic hardware noise conditions. Simulated correlated noise, transient artifacts, and non-stationary drift to evaluate decoder robustness under assumption violations.
+
+Compared assumption-driven statistical decoders against adaptive recurrent neural networks (GRUs), demonstrating improved robustness of learned sequence models under realistic hardware behavior. Implemented using Python, PyTorch, NumPy, and Matplotlib.
+
+**2nd Place — UCSB Data Science Club Project Showcase**
+
 [Stochastic Portfolio Optimization: Regime-Switching Asset Allocation in Python](https://github.com/aidanpmitchell/stochastic-regime-portfolio-optimization) \
 Developing a regime-switching portfolio optimization model that integrates stochastic processes with mean-variance optimization. Modeling market regimes using Markov chains and estimating regime-specific return distributions and covariance structures.
 
